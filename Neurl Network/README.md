@@ -10,10 +10,12 @@ Collection of important Research Papers
 6. [A Neural Network in 13 lines of Python (Part 2 - Gradient Descent)](http://iamtrask.github.io/2015/07/27/python-network-part2/)
 7. [How the backpropagation algorithm works](http://neuralnetworksanddeeplearning.com/chap2.html)
 8. [Introduction to Convolutional Neural Networks](https://www.semanticscholar.org/paper/Introduction-to-Convolutional-Neural-Networks-Wu/450ca19932fcef1ca6d0442cbf52fec38fb9d1e5)
-9. [Understanding Convolutional Neural Networks with A Mathematical Model](Introduction to Convolutional Neural Networks)
+9. [Understanding Convolutional Neural Networks with A Mathematical Model](https://arxiv.org/pdf/1609.04112.pdf)
 10. [Delving Deep into Rectifiers:Surpassing Human-Level Performance on ImageNet Classification](https://arxiv.org/pdf/1502.01852.pdf)
 11. [Evaluation of Pooling Operations inConvolutional Architectures for ObjectRecognition](http://ais.uni-bonn.de/papers/icann2010_maxpool.pdf)
 12. [Visualize Convolution feature map and pooling](scs.ryerson.ca/~aharley/vis/conv/flat.html)
 13. [The 9 Deep Learning Papers You Need To Know About](https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html)
 14. [A Friendly Introduction to Cross-Entropy Loss](http://rdipietro.github.io/friendly-intro-to-cross-entropy-loss/)
 15. [Notes on machine learning](https://peterroelants.github.io/)
+16. [Gradient-Based Learning Applied to Document recognition](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf)
+
